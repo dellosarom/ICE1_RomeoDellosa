@@ -15,6 +15,7 @@ public class CardDealer
     public static void main(String[] args)
     {
         //Romeo Dellosa
+        //Fetch
         Card nineClubs = new Card("Clbs", 9);
         nineClubs.setSuit("diamonds");
         
