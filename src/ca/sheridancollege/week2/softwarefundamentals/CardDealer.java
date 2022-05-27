@@ -19,7 +19,7 @@ public class CardDealer
         nineClubs.setSuit("diamonds");
         
         //final card
-        nineClubs.setSuit("hearts");
+       
         
         
         
