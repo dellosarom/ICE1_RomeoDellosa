@@ -19,10 +19,6 @@ public class CardDealer
         Card nineClubs = new Card("Clbs", 9);
         nineClubs.setSuit("diamonds");
         
-        //Final card
-        nineClubs.setSuit("Hearts");
-
-        
       
        
         
